@@ -1,0 +1,3 @@
+# Graphics and data visualization
+plotly
+pygame~=2.0.1
